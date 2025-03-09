@@ -49,6 +49,9 @@ npm install
 ```
 GITHUB_ACCESS_TOKEN=your_personal_access_token
 GITHUB_USERNAME=your_github_username
+GITHUB_API=https://api.github.com
+PORT=3000
+
 ```
 📌 **Generate a GitHub Personal Access Token:**  
 👉 **Settings → Developer Settings → Personal Access Tokens**
